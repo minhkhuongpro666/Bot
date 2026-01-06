@@ -1,0 +1,13 @@
+{
+  "importMap": "./import_map.json",
+  "tasks": {},
+  "compilerOptions": {},
+  "fmt": {},
+  "lint": {},
+  "unstable": true,
+  "permissions": {
+    "env": true,
+    "net": true
+  },
+  "entry": "main.js"
+}
